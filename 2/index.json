@@ -2,5 +2,6 @@
   "logo": "https://theme-beta.vercel.app/2/assets/logo.png",
   "livePlaceholder": "https://theme-beta.vercel.app/2/assets/live-placeholder.png",
   "banner": "https://theme-beta.vercel.app/2/assets/banner.png",
-  "primaryColor": "#2D68C6"
+  "primaryColor": "#2D68C6",
+  "backgroundColor": "#0d1f3b"
 }
